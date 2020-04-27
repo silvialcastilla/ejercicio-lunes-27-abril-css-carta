@@ -1,0 +1,44 @@
+/*Para este ejercicio utilizaremos la carta que creamos el martes con html*/
+*{
+    color: blue;
+    font-size: medium;
+    font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.first-address {
+    text-align: right;
+}
+
+#second-address {
+    hyphens: auto;
+}
+
+.first-p {
+    line-height: 80%;
+}
+
+.second-p {
+    text-decoration: underline;
+}
+
+ul {
+    font-weight: bolder;
+    text-decoration: overline;
+}
+
+.third-p{
+    word-spacing: 30px;
+    word-wrap: break-word;
+}
+
+.diferent-h3{
+    writing-mode: vertical-rl; 
+}
